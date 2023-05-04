@@ -1,8 +1,0 @@
-load_weights(string) h5
-save_weights(string) h5
-
-model_json = simple_lstm_model.to_json()
-with open("model.json", "w") as json_file:
-        json_file.write(model_json)
-
-simple_lstm_model = tf.keras.models.model_from_json(loaded_model_json)    
