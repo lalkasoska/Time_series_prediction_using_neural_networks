@@ -1,5 +1,5 @@
 # General information
-My first university coursework developed by following this guide https://habr.com/ru/articles/495884/. A neural network is trained on a multidimensional weather dataset with such features as temperature, pressure, humididty and others. It is then used to predict future weather.<br /><br />
+My first university coursework developed following this guide https://habr.com/ru/articles/495884/. A neural network is trained on a multidimensional weather dataset with such features as temperature, pressure, humididty and others. It is then used to predict future temperature values of this area.<br /><br />
 I used such modules as:<br /><br />
 -tensorflow<br />
 -matplotlib<br />
